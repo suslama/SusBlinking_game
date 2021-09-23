@@ -1,2 +1,2 @@
 # SusBlinking_game
-Spark AR Project
+This project consists of a filter created using Spark Ar. The filter consists of a boy on a skateboard trying to dodge obstacles that come his way. There are three different obstacles. The filter is programmed to track the user's face, so when the user blinks the boy on the skateboard jumps to avoid the obstacles. Whenever the user avoids the obstacles the scored adds up but if the user comes in contact with the obstacles the game ends. Give it try, enjoy!
